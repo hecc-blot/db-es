@@ -12,7 +12,7 @@ import (
 
 	dbEsConf "github.com/hecc-blot/db-es/config"
 	dbEsContract "github.com/hecc-blot/db-es/contract"
-	"github.com/hecc-blot/framework/contract/log"
+	"github.com/hecc-blot/core/contract/log"
 	"github.com/hecc-blot/framework/util"
 
 	"github.com/elastic/go-elasticsearch/v8"
